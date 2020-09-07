@@ -1,4 +1,4 @@
-# crypto_api_test
+# Crypto Api App
 
 Assigntment for Webbkommunikation, APIer och Backend
 
