@@ -1,16 +1,11 @@
 # crypto_api_test
 
-A new Flutter application.
+Assigntment for Webbkommunikation, APIer och Backend
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Download
+2. Enjoy this amazing piece of software where you can see the price of both Bitcoin AND Ethereum.
 
-A few resources to get you started if this is your first Flutter project:
+![Image of The App](https://raw.githubusercontent.com/emillaudon/crypto-api-app/master/118953680_709594682964961_8042965030471357643_n.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
